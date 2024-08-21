@@ -8,11 +8,9 @@ namespace Programacao_Orientada_Objetos_C_.Models
     // Sintaxe correta para fazer com que a classe em si herde propriedades e métodos de outras classes.
     public class Aluno : Pessoa
     {
-        public Aluno() { }
-        public Aluno(string nomeConstrutor, int idadeConstrutor, double notaConstrutor)
+        // ': base' inserido porque deixamos como obrigatório a inserção de nome e idade para a classe mãe. Herança de construtor.
+        public Aluno(string nomeConstrutor, int idadeConstrutor, double notaConstrutor) : base(nomeConstrutor, idadeConstrutor)
         {
-            Nome = nomeConstrutor;
-            Idade = idadeConstrutor;
             Nota = notaConstrutor;
         }
     

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\Programacao_Orientada_Objetos_C#\\Programacao_Orientada_Objetos_C#.csproj": {}
+    "C:\\Projetos\\Programacao_Orientada_Objetos\\Programacao_Orientada_Objetos_C#.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\Programacao_Orientada_Objetos_C#\\Programacao_Orientada_Objetos_C#.csproj": {
+    "C:\\Projetos\\Programacao_Orientada_Objetos\\Programacao_Orientada_Objetos_C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Programacao_Orientada_Objetos_C#\\Programacao_Orientada_Objetos_C#.csproj",
+        "projectUniqueName": "C:\\Projetos\\Programacao_Orientada_Objetos\\Programacao_Orientada_Objetos_C#.csproj",
         "projectName": "Programacao_Orientada_Objetos_C#",
-        "projectPath": "C:\\Projetos\\Programacao_Orientada_Objetos_C#\\Programacao_Orientada_Objetos_C#.csproj",
+        "projectPath": "C:\\Projetos\\Programacao_Orientada_Objetos\\Programacao_Orientada_Objetos_C#.csproj",
         "packagesPath": "C:\\Users\\Matheus Felipe\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Programacao_Orientada_Objetos_C#\\obj\\",
+        "outputPath": "C:\\Projetos\\Programacao_Orientada_Objetos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Matheus Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config"

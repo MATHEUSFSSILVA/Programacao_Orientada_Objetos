@@ -8,9 +8,7 @@ namespace Programacao_Orientada_Objetos_C_.Models
 {
     public class Pessoa
     {
-        // Construtores
-        public Pessoa() { }
-        
+        // Construtores        
         public Pessoa(string nomeConstrucao, int idadeConstrucao)
         {
             Nome = nomeConstrucao;
