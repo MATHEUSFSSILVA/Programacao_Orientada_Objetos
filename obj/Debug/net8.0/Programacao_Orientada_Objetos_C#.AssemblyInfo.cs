@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Programacao_Orientada_Objetos_C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbdf681360a8fab21393e7ab141d908a872cca23")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f55866af8af039c6572db2e01dd17f5da86b909")]
 [assembly: System.Reflection.AssemblyProductAttribute("Programacao_Orientada_Objetos_C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Programacao_Orientada_Objetos_C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

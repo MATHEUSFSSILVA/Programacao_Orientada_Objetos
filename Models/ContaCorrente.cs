@@ -14,7 +14,8 @@ namespace Programacao_Orientada_Objetos_C_.Models
         }
         public int Numero { get; set; }
         private decimal Saldo;
-
+        // Encapsulamento é privatizar uma propriedade a fim de ser alterada somente pela própria classe.
+        
         public void Sacar(decimal valor)
         {
             if (Saldo >= valor)
