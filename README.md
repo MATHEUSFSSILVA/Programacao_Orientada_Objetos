@@ -5,4 +5,3 @@ Atualmente estudando a aula Classes Abstratas e interfaces com C#.
 Aulas concluídas:
 
     - Introdução, Abstração e Encapsulamento com C#.
-    - Herança e polimorfismo com C#.
